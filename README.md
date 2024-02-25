@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software developer currently working professionally with everyone's favorite language: JavaScript.
+
+I'm also learning for my first cloud certificate and in my free time I'm focusing on improving my minimal linux workflow and playing a bit with Golang.
+
 <!--
 **ndrpp/ndrpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
