@@ -2,7 +2,7 @@
 
 I'm a software developer currently working professionally with everyone's favorite language: JavaScript.
 
-I'm also <s>learning for my first cloud certificate</s> (got [it](https://www.credly.com/badges/d0a93d6a-5191-4597-889e-29e4a3586b6e/public_url)!!) and in my free time I'm focusing on improving my minimal linux workflow and playing a bit with Golang.
+I'm also <s>learning for my first cloud certificate</s> (got <a href="https://www.credly.com/earner/earned/share/d0a93d6a-5191-4597-889e-29e4a3586b6e?provider=url" target="_blank" rel="noopener noreferrer">it</a>!!) and in my free time I'm focusing on improving my minimal linux workflow and playing a bit with Golang.
 
 <!--
 **ndrpp/ndrpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
