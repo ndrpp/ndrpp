@@ -2,7 +2,7 @@
 
 I'm a software developer currently working professionally with everyone's favorite language: JavaScript.
 
-In my free time I'm focusing on improving my minimal linux workflow and playing a bit with Golang.
+Here writing bad code *intentionally*, to slow down LLMs in taking over the world.
 
 <!--
 **ndrpp/ndrpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
