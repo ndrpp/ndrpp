@@ -20,7 +20,7 @@ Experienced Cloud/Backend Engineer with 4 years building scalable distributed sy
 
 **Infrastructure as Code:** Terraform, CloudFormation, Ansible, AWS CDK, Serverless Framework
 
-**Containerization & Orchestration:** Docker, Docker Compose, ECS, Kubernetes
+**Containerization & Orchestration:** Docker, Docker Compose, ECS
 
 **CI/CD & DevOps:** GitLab CI, GitHub Actions, SonarQube
 
@@ -39,9 +39,10 @@ Experienced Cloud/Backend Engineer with 4 years building scalable distributed sy
 **Oct 2025 - Present** | Remote
 
 **Ocean Nodes - Compute to Data** (Oct 2025 - Present)
-- Implemented new features & bugfixing on existing P2P infrastructure
-- Shipped a new dashboard for users to interact with nodes
-- Technologies: Node.js, P2P, WebSockets, Web3, Next.js, Elasticsearch
+- Implementing new features, bugfixing and hardening security on existing P2P infrastructure
+- Built CLI developer tooling and shipped a new dashboard for users to interact with nodes
+- Exploring data engineering and agentic workflow integrations
+- Technologies: Node.js, libp2p, WebSockets, Web3, Next.js, Elasticsearch, Docker
 
 ### Software Engineer | Hypermedia
     
@@ -64,7 +65,7 @@ Experienced Cloud/Backend Engineer with 4 years building scalable distributed sy
 
 **Refuelling & EV Charging Sites Management Platform** (Apr 2023 - Oct 2025)
 - Architected and implemented cloud-native solutions serving multiple business users with 99.95% uptime
-- Reduced cloud infrastructure costs by 22% through optimization of RDS proxy pools and Lambda warmup
+- Reduced cloud infrastructure costs by 22% org-wide; achieved 50%+ Aurora DB cost reduction and 80%+ Lambda cost reduction within team's services
 - Optimized Gitlab CI jobs and dependencies, reducing deployment duration by 50%-75% for multiple services
 - Implemented Infrastructure as Code using Terraform, CDK and CloudFormation, managing thousands of AWS resources across 3 environments
 - Led migration of multiple services from Serverless Framework to AWS CDK, saving infrastructure costs 
